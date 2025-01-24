@@ -1,2 +1,2 @@
 # Week-1
-Exhaustive Analysis of Indian Agriculture Sector Using Power BI
+The "Exhaustive Analysis of Indian Agriculture using Power BI" seeks to deeply analyze agricultural data, revealing crucial insights and emerging trends impacting the sector. By utilizing Power BI, interactive dashboards will be created to vividly visualize key elements such as crop yields, rainfall patterns, state-wise performance, and economic contributions. This comprehensive approach promises to enhance understanding of the dynamic factors driving Indian agriculture.
