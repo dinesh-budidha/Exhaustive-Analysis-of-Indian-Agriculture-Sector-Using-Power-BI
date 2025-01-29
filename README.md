@@ -1,2 +1,4 @@
 # Week-1
 The "Exhaustive Analysis of Indian Agriculture using Power BI" seeks to deeply analyze agricultural data, revealing crucial insights and emerging trends impacting the sector. By utilizing Power BI, interactive dashboards will be created to vividly visualize key elements such as crop yields, rainfall patterns, state-wise performance, and economic contributions. This comprehensive approach promises to enhance understanding of the dynamic factors driving Indian agriculture.
+# Week-2
+"Transform Data" to access various features such as handling null values, deleting empty columns, renaming columns, and counting rows. After making the necessary changes, click on "Apply" to implement them. These changes will be reflected in Power BI Desktop, where you can then visualize the dataset in different formats like bar charts, pie charts, tree maps, and more.
